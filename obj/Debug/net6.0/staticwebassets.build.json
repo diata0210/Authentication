@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bMhpWtvm4/YThW9F99XQkvHi8xzISBTB6dY68I0rQpY=",
+  "Source": "NetCore6_Auth",
+  "BasePath": "_content/NetCore6_Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
